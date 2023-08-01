@@ -1,0 +1,26 @@
+[
+	{
+		"name": "tolu peters",
+		"email": "tolupeters@gmail.com",
+		"password": "1234",
+		"id": 1
+	},
+	{
+		"name": "toyin adams",
+		"email": "toyinadams@gmail.com",
+		"password": "12345",
+		"id": 2
+	},
+	{
+		"name": "emmanuel kent",
+		"email": "emmanuelkent@gmail.com",
+		"password": "123456",
+		"id": 3
+	},
+	{
+		"name": "testuser0001",
+		"email": "testuser0001@gmail.com",
+		"password": "12345678",
+		"id": 4
+	}
+]

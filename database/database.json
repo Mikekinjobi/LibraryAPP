@@ -1,0 +1,52 @@
+[
+	{
+		"title": "A Promised Land",
+		"author": "Barack Obama",
+		"datePublished": "2020-0-12T19:0455.455z",
+		"description": "A Promised Land is a memoir by Barack Obama, the 44th President of the United States from 2009 to 2017. Published on November 17, 2020, it is the first of a planned two-volume series",
+		"pageCount": 768,
+		"genre": "autobiography",
+		"bookId": 1,
+		"publisher": "Crown"
+	},
+	{
+		"title": "A Promised Land 2",
+		"author": "Barack",
+		"datePublished": "2020-0-12T19:0455.455z",
+		"description": "A Promised Land is a memoir by Barack Obama, the 44th President of the United States from 2009 to 2017. Published on November 17, 2020, it is the first of a planned two-volume series",
+		"pageCount": 1000,
+		"genre": "auto",
+		"bookId": 2,
+		"publisher": "Crown"
+	},
+	{
+		"title": "A Promised Land 4",
+		"author": "Barack Obama",
+		"datePublished": "2020-0-12T19:0455.455z",
+		"description": "A Promised Land is a memoir by Barack Obama, the 44th President of the United States from 2009 to 2017. Published on November 17, 2020, it is the first of a planned two-volume series",
+		"pageCount": 800,
+		"genre": "action",
+		"bookId": 3,
+		"publisher": "Crown"
+	},
+	{
+		"title": "A Promised Land 777",
+		"author": "Barack Obama",
+		"datePublished": "2020-0-12T19:0455.455z",
+		"description": "A Promised Land is a memoir by Barack Obama, the 44th President of the United States from 2009 to 2017. Published on November 17, 2020, it is the first of a planned two-volume series",
+		"pageCount": 800,
+		"genre": "action",
+		"bookId": 4,
+		"publisher": "Crown"
+	},
+	{
+		"title": "A Promised Land 101010",
+		"author": "Barack",
+		"datePublished": "2020-0-12T19:0455.455z",
+		"description": "A Promised Land is a memoir by Barack Obama, the 44th President of the United States from 2009 to 2017. Published on November 17, 2020, it is the first of a planned two-volume series",
+		"pageCount": 1000,
+		"genre": "scrillo",
+		"bookId": 5,
+		"publisher": "Crown"
+	}
+]
